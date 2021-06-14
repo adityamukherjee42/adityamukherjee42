@@ -6,5 +6,5 @@
 <br /><br />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=adityamukherjee425&color=brightgreen)
-![Linkedin Badge](https://img.shields.io/badge/-Aditya Mukherjee-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya-mukherjee-817a17190/)
+![Linkedin Badge](https://img.shields.io/badge/-adityamukherjee42-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya-mukherjee-817a17190/)
 ![Gmail Badge](https://img.shields.io/badge/-adityamukherjee42-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:adityamukherjee42@gmail.com)
